@@ -6,11 +6,11 @@
 #    By: gbright <gbright@student.21-school.ru>     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/04/29 22:01:11 by gbright           #+#    #+#              #
-#    Updated: 2020/10/04 20:29:13 by gbright          ###   ########.fr        #
+#    Updated: 2021/03/12 10:10:37 by gbright          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = fuck
+NAME = program
 
 FLAGS = -Wall -Wextra -Werror
 FILES = main.cpp
